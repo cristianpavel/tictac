@@ -1,0 +1,8 @@
+README
+
+Cristian Pavel - ACS
+
+
+A GUI implementation of the popular game Tic-Tac-Toe. Every function is written
+in its own file. The algorithm does not use the MIN-MAX idea, but a more brute
+one.
